@@ -62,6 +62,6 @@
     관심있는 기술이나 프로젝트는 깃허브에서 포크를 따놓는것도 해당 기술에 대한 관심도를 보여주는데 좋은 방법이다. 컨트리뷰트까지 하면 더 좋고. 
 
 
-    참고 깃허브 링크: https://github.com/jojoldu?tab=repositories
+    - 참고 깃허브 링크: https://github.com/jojoldu?tab=repositories
 
-    참고 블로그 링크: https://jojoldu.tistory.com/
+    - 참고 블로그 링크: https://jojoldu.tistory.com/
