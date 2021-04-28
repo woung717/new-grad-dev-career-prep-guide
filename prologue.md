@@ -116,7 +116,8 @@
       - Server: LINE Messaging Platform Server, Messaging Data Engineering, Data Science & Platform, Game Platform, DevOps Software Engineering, Commerce Platform, Fintech Server, Game Server
       - Client: LINE Messaging Platform Client, LINE Desktop Client, LINE Messaging Platform / Web Service Frontend, Game Client
       - Cloud/BigData: Cloud Platform, Database
-      (https://www.catch.co.kr/NCS/RecruitInfoDetails/144879)참고 
+  
+        (https://www.catch.co.kr/NCS/RecruitInfoDetails/144879)참고 
 
       지원자격: 
       - 2021년 2월 학사/석사 학위 취득 예정 또는 경력 2년 미만의 학사/석사 학위를 보유하신 분
