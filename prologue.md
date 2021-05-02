@@ -1,5 +1,4 @@
-### 0. 들어가기 앞서
-[![pango_dev_daily](./pangyo_dev.jpeg)](https://www.teamblind.com/kr/post/판교-프로그래머의-일상-dbopF0XE)     
+### 1. 기업들 살펴보기
 
 - 기업 선택
   - 네이버 
